@@ -4,7 +4,7 @@ class Student(object):
         self.weight = weight
     def grow(self, change=1):
         self.height += change
-
+    def testfunction:
 '''The following code can be executed in the IPython session:
 In[]:   alex = Student(height=72)   # Creates a Student object called alex with a height of 72.
 In[]:   print alex.weight           # Prints the weight attribute of the alex object.
